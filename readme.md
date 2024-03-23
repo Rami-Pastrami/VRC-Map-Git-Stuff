@@ -1,0 +1,1 @@
+These 2 files are a gitignore file that works well with my VRChat world maps, and a git LFS configuration file that appropriately puts large files into LFS
